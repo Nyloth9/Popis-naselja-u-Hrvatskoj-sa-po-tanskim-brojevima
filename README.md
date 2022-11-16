@@ -1,4 +1,6 @@
-Popis u JSON formatu
+Popis je u JSON formatu.
+
+DB schema:
 
 ```
 model Naselja {
