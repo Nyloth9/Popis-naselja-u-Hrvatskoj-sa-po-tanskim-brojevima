@@ -1,3 +1,4 @@
+```
 model Naselja {
   id                     Int    @id @default(autoincrement()) @db.MediumInt
   NASELJE_MBR            Int
@@ -8,3 +9,4 @@ model Naselja {
   ZUPANIJA_MBR           Int
   ZUPANIJA_NAZIV         String @db.VarChar(40)
 }
+```
