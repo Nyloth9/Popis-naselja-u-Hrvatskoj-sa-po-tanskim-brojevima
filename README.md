@@ -1,3 +1,5 @@
+Popis u JSON formatu
+
 ```
 model Naselja {
   id                     Int    @id @default(autoincrement()) @db.MediumInt
